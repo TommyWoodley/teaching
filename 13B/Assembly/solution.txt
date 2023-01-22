@@ -1,0 +1,32 @@
+      MOV R1, #6
+bsort:
+      MOV R2, #0
+      MOV R6, #0
+bsort_loop:
+      ADD R7, R2, #2
+      CMP R1, R7
+      BLT bsort_check
+      ADD R3, R2, #1
+      LDR R4, [R2+data]
+      LDR R5, [R3+data]
+      CMP R4, R5
+      BLT bsort_not_swap
+      BEQ bsort_not_swap
+      STR R5, [R2+data]
+      STR R4, [R3+data]
+      ADD R6, R6, #1
+bsort_not_swap:
+      MOV R2, R3
+      B bsort_loop
+bsort_check:
+      CMP R6, #0
+      BGT bsort
+bsort_done:
+      HALT
+data:
+      DAT 2
+      DAT 47
+      DAT 4
+      DAT 23
+      DAT 9
+      DAT 11
