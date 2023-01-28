@@ -4,9 +4,9 @@ bsort:
 
       HALT
 data: // I'm calling the array data
-      DAT 2
-      DAT 47
       DAT 4
+      DAT 47
+      DAT 2
       DAT 23
       DAT 9
       DAT 11
