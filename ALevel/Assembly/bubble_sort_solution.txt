@@ -1,4 +1,4 @@
-      MOV R1, #6
+      MOV R1, #6 // The number of elements
 bsort:
       MOV R2, #0
       MOV R6, #0
@@ -23,10 +23,11 @@ bsort_check:
       BGT bsort
 bsort_done:
       HALT
+// The data array
 data:
-      DAT 2
-      DAT 47
       DAT 4
+      DAT 47
+      DAT 2
       DAT 23
       DAT 9
       DAT 11
