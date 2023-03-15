@@ -1,6 +1,6 @@
-# Teaching COMP60003: Communicating Computer Science in Schools
+# COMP60003: Communicating Computer Science in Schools - Tommy Woodley
 
-This repository is Publically Accessable on GitHub - [GitHub](https://github.com/TommyWoodley/teaching)
+This repository is Publically Accessable on GitHub - [GitHub](https://github.com/TommyWoodley/teaching).
 Other teachers are welcome to use any resources here with free use and adapt and change however you wish.
 
 This repository contains resources that I have created as part of the COMP6003 Communicating Computer Science in Schools at Imperial College London.
@@ -85,3 +85,7 @@ The following 4 Lessons have 1 [Shared Lesson Plan](ALevel/FundamentalsOfComputa
    - [Logic Worksheet](ALevel/BigO/LogicWorksheet.docx) - This was based on Lesson 4 - Students struggled with this topic during my lesson 4. So we spent some time going oer it again and trying out more questions to increase their confidence.
    - [Big O Worksheet](ALevel/BigO/BigOWorksheet.docx)
 7. Big Data
+   - [Lesson Plan](ALevel/FundamentalsOfComputationalThinking.pdf) - Lesson 4, 5, 6, 7 have a shared lesson plan.
+   - [Presentation](ALevel/BigData/BigDataPresentation.pptx)
+   - [Big Data Types Worksheet](ALevel/BigData/BigDataTypes.docx)
+   - [Big Data General Worksheet](ALevel/BigData/BigDataQuestions.docx)
