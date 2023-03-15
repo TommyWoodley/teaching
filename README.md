@@ -52,11 +52,15 @@ They are more focussed on exam style and ways of approaching questions as well a
       - [Bubble Sort Exercise Student](ALevel/Assembly/bubble_sort_blank.txt) - [Solution](ALevel/Assembly/bubble_sort_solution.txt)
 2. Boolean Logic - This lesson requires use of the [A-Level Computer Science Logic and Arithmetic Kit](https://www.ecs.soton.ac.uk/outreach/kits/computer-science-logic-and-arithmetic-kit) from the University of Southampton. It could also be adapted for a virtual version. This lesson was also planned as a 2 hour lesson for both Year 12 and Year 13 during a visit to Imperial College London.
    - [Lesson Plan](ALevel/BooleanLogic/BooleanLogicLessonPlan.pdf)
-   - [Presentation](ALevel/BooleanLogic/BooleanLogicPresentation.pdf)
+   - [Presentation](ALevel/BooleanLogic/BooleanLogicPresentation.pptx)
    - [Lesson Worksheet](ALevel/BooleanLogic/BooleanLogicWorksheet.pdf)
    - [Boolean Algebra Game](ALevel/BooleanLogic/BooleanGame.pdf)
    - [Boolean Logic Program](ALevel/BooleanLogic/BooleanLogicProgram.ipynb) - [Solution](ALevel/BooleanLogic/BooleanLogicProgramSolution.ipynb)
 3. Databases
+   - [Lesson Plan](ALevel/Databases/DatabasesLessonPlan.pdf)
+   - [Presentation](ALevel/Databases/DatabasesPresentation.pdf)
+   - [Relationship Matching Exercise](ALevel/Databases/RelationshipMatching.pdf) - this is a student version of several slides that can be used for them to draw relationships on.
+   - [SQL Worksheet](ALevel/Databases/SQLWorksheet.pdf) - [Solutions](ALevel/Databases/SQLSolutions.pdf)
 4. Abstraction, Finite State Machines & Turing Machines
 5. Regular Expressions & Context Free Languages
 6. Classification of Algorithms (BigO)
