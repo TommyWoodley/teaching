@@ -22,22 +22,22 @@ For anyone viewing these resources you are more than welcome to fork the reposit
 Resources for these lessons are organised into folders inside this repository - links are provided below as well. To read I would suggest having the lesson plan pdf open and then opening each resource as you read the lesson plan.
 
 1. Lesson 1: Overview, Types of Malware, Brute Force and DDoS - [Folder](Y10/L1)
-   - [Network Security Lesson Plan](Y10/NetworkSecurity.pdf) - All lessons for GCSE share the same lesson plans.
+   - [Lesson Plan](Y10/NetworkSecurity.pdf) - All lessons for GCSE share the same lesson plans.
    - Mentimeter - Photos of questions and the results from my class are - HERE
-   - [Lesson Presentation](Y10/L1/AttacksPresentation.pptx)
-   - [Lesson Worksheet](Y10/L1/AttacksWorksheet.docx)
-   - Lesson Homework - Resource task based on articles from recent hacks (For any teachers using these resources I would suggest ensuring the links provided are still valid before using them in your lesson) - [Homework](Y10/L1/ImpactsOfAttacksHomework.docx)
+   - [Presentation](Y10/L1/AttacksPresentation.pptx)
+   - [Worksheet](Y10/L1/AttacksWorksheet.docx)
+   - [Homework](Y10/L1/ImpactsOfAttacksHomework.docx) - Resource task based on articles from recent hacks (For any teachers using these resources I would suggest ensuring the links provided are still valid before using them in your lesson) 
 2. Lesson 2: Passwords, User Access Levels, Anti Malware & Firewalls, Data Interception and Encryption
-   - [Network Security Lesson Plan](Y10/NetworkSecurity.pdf) - All lessons for GCSE share the same lesson plans.
+   - [Lesson Plan](Y10/NetworkSecurity.pdf) - All lessons for GCSE share the same lesson plans.
    - Kahoot - PHOTOS HERE - [Kahoot Share Link](https://create.kahoot.it/share/network-attacks/7f893d8b-95e7-445f-a193-6eadcdf48f89) -If link is invalid then refer to the question pictures.
-   - [Lesson Presentation](Y10/L2/L2.pptx)
-   - [Lesson Worksheet](Y10/L2/L2Worksheet.pptx) - [Answers](Y10/L2/L2WorksheetAnswers.pptx)
+   - [Presentation](Y10/L2/L2.pptx)
+   - [Worksheet](Y10/L2/L2Worksheet.pptx) - [Answers](Y10/L2/L2WorksheetAnswers.pptx)
    - [Caesar Cipher Homework](Y10/L2/CaesarCypherHomework.docx) - [Answers](Y10/L2/CaesarCypherHomework.docx)
 3. Lesson 3: Physical Security, Penetration Testing and SQL Injection
-   - [Network Security Lesson Plan](Y10/NetworkSecurity.pdf) - All lessons for GCSE share the same lesson plans.
+   - [Lesson Plan](Y10/NetworkSecurity.pdf) - All lessons for GCSE share the same lesson plans.
    - Kahoot - PHOTOS HERE - [Kahoot Share Link](https://create.kahoot.it/share/network-attacks-2/7f5f1d74-8974-4437-94aa-dccd9a7021a4)
-   - [Lesson Presentation](Y10/L3/L3.pptx)
-   - [Lesson Worksheet](Y10/L3/L3Worksheet.docx)
+   - [Presentation](Y10/L3/L3.pptx)
+   - [Worksheet](Y10/L3/L3Worksheet.docx)
 
 ## Year 13 / A-Level
 All resources were created based on the AQA A Level Computer Science.
