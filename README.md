@@ -46,8 +46,13 @@ Students had already finished the course, so these lessons are not desinged for 
 They are more focussed on exam style and ways of approaching questions as well as extending the content further than the A-Level Specification.
 
 1. Assembly
-      - [Lesson Plan](ALevel/Assembly/As)
-2. Boolean Logic
+      - [Lesson Plan](ALevel/Assembly/AssemblyLessonPlan.pdf)
+      - [Presentation](ALevel/Assembly/AssemblyPresentation.pptx)
+      - [Student Presentation Handout](ALevel/Assembly/AssemblyLanguageStudentHandout.pdf)
+      - [Bubble Sort Exercise Student](ALevel/Assembly/bubble_sort_blank.txt) - [Solution](ALevel/Assembly/bubble_sort_solution.txt)
+2. Boolean Logic - This lesson requires use of the [A-Level Computer Science Logic and Arithmetic Kit](https://www.ecs.soton.ac.uk/outreach/kits/computer-science-logic-and-arithmetic-kit) from the University of Southampton. It could also be adapted for a virtual version. This lesson was also planned as a 2 hour lesson for both Year 12 and Year 13 during a visit to Imperial College London.
+   - [Lesson Plan](ALevel/BooleanLogic/BooleanAlgebraLessonPlan.pdf)
+   - 
 3. Databases
 4. Abstraction, Finite State Machines & Turing Machines
 5. Regular Expressions & Context Free Languages
