@@ -58,10 +58,19 @@ They are more focussed on exam style and ways of approaching questions as well a
    - [Boolean Logic Program](ALevel/BooleanLogic/BooleanLogicProgram.ipynb) - [Solution](ALevel/BooleanLogic/BooleanLogicProgramSolution.ipynb)
 3. Databases
    - [Lesson Plan](ALevel/Databases/DatabasesLessonPlan.pdf)
+   - KAHOOT - Insert here
    - [Presentation](ALevel/Databases/DatabasesPresentation.pdf)
    - [Relationship Matching Exercise](ALevel/Databases/RelationshipMatching.pdf) - this is a student version of several slides that can be used for them to draw relationships on.
    - [SQL Worksheet](ALevel/Databases/SQLWorksheet.pdf) - [Solutions](ALevel/Databases/SQLSolutions.pdf)
-4. Abstraction, Finite State Machines & Turing Machines
+
+The following 4 Lessons have 1 [Shared Lesson Plan](ALevel/FundamentalsOfComputationalThinking.pdf) since they're highly related topics:
+4. Abstraction, Automation, Finite State Machines & Turing Machines
+   - [Lesson Plan](ALevel/FundamentalsOfComputationalThinking.pdf) - Lesson 4, 5, 6, 7 have a shared lesson plan.
+   - KAHOOT - Insert here
+   - [Presentation](ALevel/FSM&TM/FSM&TuringPresentation.pptx)
+   - [Finite State Machines Questions](ALevel/FSM&TM/FSMQuestions.docx) - [Solutions](ALevel/FSM&TM/FSMAnswers.docx)
+   - [Turing Machine Questions](ALevel/FSM&TM/TMQuestions.docx) - [Solutions](ALevel/FSM&TM/TMAnswers.docx)
+   - [Turing Programming Exercise](ALevel/FSM&TM/TuringProgramming.docx)
 5. Regular Expressions & Context Free Languages
 6. Classification of Algorithms (BigO)
 7. Big Data
