@@ -72,5 +72,10 @@ The following 4 Lessons have 1 [Shared Lesson Plan](ALevel/FundamentalsOfComputa
    - [Turing Machine Questions](ALevel/FSM&TM/TMQuestions.docx) - [Solutions](ALevel/FSM&TM/TMAnswers.docx)
    - [Turing Programming Exercise](ALevel/FSM&TM/TuringProgramming.docx)
 5. Regular Expressions & Context Free Languages
+   - [Lesson Plan](ALevel/FundamentalsOfComputationalThinking.pdf) - Lesson 4, 5, 6, 7 have a shared lesson plan.
+   - [Presentaion](ALevel/RegularAndContextFreeLanguages/RE&CFLPresentation.pptx)
+   - [Regular Expression Questions](ALevel/RegularAndContextFreeLanguages/RegularExpressionQuestions.docx)
+   - [Backus Naur Form Questions](ALevel/RegularAndContextFreeLanguages/BackusNaurFormQuestions.docx) - [Solutions](ALevel/RegularAndContextFreeLanguages/BackusNaurFormAnswers.docx)
+   - [Language Builder Exercise](ALevel/RegularAndContextFreeLanguages/LanguageBuilder.docx)
 6. Classification of Algorithms (BigO)
 7. Big Data
