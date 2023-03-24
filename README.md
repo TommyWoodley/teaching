@@ -29,13 +29,13 @@ Resources for these lessons are organised into folders inside this repository - 
    - [Homework](Y10/L1/ImpactsOfAttacksHomework.docx) - Resource task based on articles from recent hacks (For any teachers using these resources I would suggest ensuring the links provided are still valid before using them in your lesson) 
 2. Lesson 2: Passwords, User Access Levels, Anti Malware & Firewalls, Data Interception and Encryption
    - [Lesson Plan](Y10/NetworkSecurity.pdf) - All lessons for GCSE share the same lesson plans.
-   - Kahoot - PHOTOS HERE - [Kahoot Share Link](https://create.kahoot.it/share/network-attacks/7f893d8b-95e7-445f-a193-6eadcdf48f89) -If link is invalid then refer to the question pictures.
+   - [Kahoot Picture](Y10/L2/L2Kahoot.png) - [Kahoot Share Link](https://create.kahoot.it/share/network-attacks/7f893d8b-95e7-445f-a193-6eadcdf48f89) -If link is invalid then refer to the question pictures.
    - [Presentation](Y10/L2/Lesson2Presentation.pptx)
    - [Worksheet](Y10/L2/L2Worksheet.pptx) - [Answers](Y10/L2/L2WorksheetAnswers.pptx)
    - [Caesar Cipher Homework](Y10/L2/CaesarCypherHomework.docx) - [Answers](Y10/L2/CaesarCypherHomework.docx)
 3. Lesson 3: Physical Security, Penetration Testing and SQL Injection
    - [Lesson Plan](Y10/NetworkSecurity.pdf) - All lessons for GCSE share the same lesson plans.
-   - Kahoot - PHOTOS HERE - [Kahoot Share Link](https://create.kahoot.it/share/network-attacks-2/7f5f1d74-8974-4437-94aa-dccd9a7021a4)
+   - [Kahoot Picture](Y10/L3/L3%20Kahoot.png) - [Kahoot Share Link](https://create.kahoot.it/share/network-attacks-2/7f5f1d74-8974-4437-94aa-dccd9a7021a4)
    - [Presentation](Y10/L3/Lesson3Presentation.pptx)
    - [Worksheet](Y10/L3/Lesson3Worksheet.docx)
 
