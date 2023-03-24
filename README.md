@@ -14,7 +14,7 @@ The 3 lessons shown are for work with a Year 10 class designed to introduce the 
 
 Lesson Plan for all 3 lessons - [Network Security Lesson Plan](Y10/NetworkSecurity.pdf)
 
-Lesson 1 and Lesson 3 make use of a custom-built website [GitHub](https://github.com/TommyWoodley/broken-stbens). 
+Lesson 1 and Lesson 3 make use of a custom-built website avliabvle to view here: [GitHub](https://github.com/TommyWoodley/broken-stbens). 
 For anyone viewing these resources you are more than welcome to fork the repository for your own schools or lessons (I would suggest altering the name and logo of the website - documentation is provided).
 
 [St Benedicts Version](https://stormy-oasis-27277.herokuapp.com) - This version is currently hosted via Heroku and is tailed for the School that these lessons were designed for.
